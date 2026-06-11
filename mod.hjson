@@ -1,11 +1,11 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "The Lunar"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "the-lunar"
 
 #your name
-author: "You"
+author: "MGFeng"
 
 #the fully qualified main class of the mod
 main: "example.ExampleJavaMod"
